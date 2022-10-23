@@ -2,7 +2,7 @@
 
 This is a test app. This only pourpouse is to show my abilities to companies that has interest in my profile. Please feel free to getting touch with me on my [Linkedin](https://www.linkedin.com/in/lucasferreiralsf/)
 
-You can see this project running on [https://github-users-react-test.vercel.com](https://github-users-react-test.vercel.com)
+You can see this project running on [https://github-users-react-test.vercel.app](https://github-users-react-test.vercel.app)
 
 ## Available Scripts
 
